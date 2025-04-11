@@ -82,6 +82,16 @@ You can test generation quality using:
 ```
 python src/evaluation_utils.py
 ```
+---
+
+## 📸 evaluation_utils
+
+<p align="center">
+  <img src="assets/demo_screenshot2.png" alt="Demo Screenshot" width="700"/>
+</p>
+
+---
+
 ### Includes:
 - ROUGE
 - BLEU (standard)
@@ -108,10 +118,10 @@ RAGnosis/
 - Evaluate (HuggingFace)
 
 ## 📌 Example Clinical Queries
-**"Does the patient have COPD?"**
-**"Can this be diagnosed as a duodenal ulcer?"**
-**"Is shortness of breath explained by heart failure?"**
-**"Should this patient undergo endoscopy?"**
+**"Does the patient have COPD?"** <br>
+**"Can this be diagnosed as a duodenal ulcer?"** <br>
+**"Is shortness of breath explained by heart failure?"** <br>
+**"Should this patient undergo endoscopy?"** <br><br>
 
 
 **Created by Muhammad Absar Raashid**
